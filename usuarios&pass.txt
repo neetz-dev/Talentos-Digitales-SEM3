@@ -1,0 +1,12 @@
+CLIENTES
+EMAIL: marito.e@gmail.com
+PASS: 12345
+
+EMAIL: manzanita@gmail.com
+PASS:qwerty
+
+---------------------------------
+
+ADMIN
+EMAIL:lopezamancio@hotmail.com
+PASS:12345

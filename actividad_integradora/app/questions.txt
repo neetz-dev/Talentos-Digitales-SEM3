@@ -1,0 +1,5 @@
+- I need to use only echo, rather than echo base_url for url files.
+
+-What is csrf_field and what is it used for?
+
+-There is any difference about use if brachets and endif?
